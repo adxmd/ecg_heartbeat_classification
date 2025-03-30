@@ -90,13 +90,13 @@ When computing the performance of the best CNN and RNN models mentioned above on
 This project includes a function called `parameterTuning()` that systematically tests different hyperparameter combinations to evaluate the model's performance.
 
 When experimenting with Convolutional Neural Networks, I tested how different kernel sizes and epochs trained affect performance.
--`Kernel Sizes: [2, 4, 6, 8]`
--`Epochs: [5, 10, 15, 20, 25, 30, 35, 40, 45, 50]`
+- `Kernel Sizes: [2, 4, 6, 8]`
+- `Epochs: [5, 10, 15, 20, 25, 30, 35, 40, 45, 50]`
 
 Similar to CNNs, when experimenting with Recurrent Neural Networks, I tested many different combinations of types of recurrent layers, the number of hidden units for recurrent cells, and the number of epochs trained, and this data gave me insights into how the model is performing.
--`Types of RNN: [LSTM, GRU]`
--`RNN Hidden States: [16, 32, 48, 64, 72, 96]`
--`Epochs: [5, 10, 15, 20, 25, 30, 35, 40, 45, 50]`
+- `Types of RNN: [LSTM, GRU]`
+- `RNN Hidden States: [16, 32, 48, 64, 72, 96]`
+- `Epochs: [5, 10, 15, 20, 25, 30, 35, 40, 45, 50]`
 
 The learning rate is fixed at 0.01. However, further experiments could be done on how modifying the learning rate will affect performance. 
 

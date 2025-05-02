@@ -93,8 +93,9 @@ When experimenting with Convolutional Neural Networks, I tested how different ke
 - `Kernel Sizes: [2, 4, 6, 8]`
 - `Epochs: [5, 10, 15, 20, 25, 30, 35, 40, 45, 50]`
 
-Similar to CNNs, when experimenting with Recurrent Neural Networks, I tested many different combinations of types of recurrent layers, the number of hidden units for recurrent cells, and the number of epochs trained, and this data gave me insights into how the model is performing.
+Similar to CNNs, when experimenting with Recurrent Neural Networks, I tested many different combinations of hyperparameters such as types of recurrent layers, optimizers, the number of hidden units for recurrent cells, and the number of epochs trained. This data gave me insights into how the model is performing.
 - `Types of RNN: [LSTM, GRU]`
+- `Optimizer: [Adam , RMSProp]`
 - `RNN Hidden States: [16, 32, 48, 64, 72, 96]`
 - `Epochs: [5, 10, 15, 20, 25, 30, 35, 40, 45, 50]`
 

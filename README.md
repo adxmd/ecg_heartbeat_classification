@@ -1,10 +1,10 @@
 # Multi-Class ECG Heartbeat Classification
 
-[Adam David](https://www.adamdavid.dev)
+**Author:** [Adam David](https://www.adamdavid.dev)
 
 ---
 
-## Project Overview  
+## Overview  
 This project aims to classify ECG heartbeats as either a normal heartbeat or myocardial infarction using deep learning techniques. The model utilizes convolutional neural networks (CNNs) and recurrent neural networks (RNNs) to process time-series data effectively.
 
 The dataset used is the **ECG200 Time Series** dataset from the Time Series Machine Learning Website. This dataset was formatted and donated by R. Olszewski. Each series traces the electrical activity recorded during one heartbeat. 

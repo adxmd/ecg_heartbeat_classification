@@ -12,7 +12,7 @@ The dataset used is the **ECG200 Time Series** dataset from the Time Series Mach
 ---
 
 ## Dataset  
-**Link:** [ECG200 Heartbeat](https://dl.acm.org/doi/book/10.5555/935627)  
+**Source:** [ECG200 Heartbeat (ACM Digital Library)](https://dl.acm.org/doi/book/10.5555/935627)  
 
 ### Features  
 1. Time-Series Data:
